@@ -30,8 +30,7 @@
 </div>
 
 
-<details align="center">
-  <summary>More about me</summary>
+<summary>More about me</summary>
   
 It was a joke, there is no more info here  `¯\_(ツ)_/¯`
 
