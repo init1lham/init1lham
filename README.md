@@ -31,7 +31,7 @@ job_title(X) :-
   
 It was a joke, there is no more info here  `¯\_(ツ)_/¯`
 
-If you want to know more about me just send me a mail to ramizna@code.edu.az and I would gladly answer your questions or try to help you out with whatever you need! 
+If you want to know more about me just send me a mail to init1lham@gmail.com and I would gladly answer your questions or try to help you out with whatever you need! 
 
 <sub>In fact, if you think about it, this above was actually more information about me :)<sub> 
 
